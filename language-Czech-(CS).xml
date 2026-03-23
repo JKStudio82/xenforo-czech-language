@@ -1,153 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="English (US)" date_format="M j, Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="g:i A" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="cs-CZ" text_direction="LTR" user_selectable="1" base_version_id="2031070" export_version="2">
-  <phrase title="10_character_id_that_is_associated_with_your_apple_developer_membership" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[The 10 character ID that is associated with your Apple Developer membership.]]></phrase>
-  <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One day ago]]></phrase>
-  <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One month ago]]></phrase>
-  <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 time]]></phrase>
-  <phrase title="1_week_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One week ago]]></phrase>
-  <phrase title="1_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 year]]></phrase>
-  <phrase title="1_year_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One year ago]]></phrase>
-  <phrase title="2_weeks_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Two weeks ago]]></phrase>
-  <phrase title="2_years_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Two years ago]]></phrase>
-  <phrase title="2x_image_replacement_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[2x image replacement URL]]></phrase>
-  <phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If provided, the 2x image will be automatically displayed instead of the image URL above on devices capable of displaying a higher pixel resolution.<br />
+<language title="Čeština (CZ)" date_format="j. n. Y" date_short_format="n/y" date_short_recent_format="j. n." time_format="H:i" currency_format="{symbol}{value}" week_start="1" decimal_point="," thousands_separator=" " label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="cs-CZ" text_direction="LTR" user_selectable="1" base_version_id="2031070" export_version="2">
+  <phrase title="10_character_id_that_is_associated_with_your_apple_developer_membership" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Desetimístné ID, které je přiřazeno k vašemu členství Apple Developer.]]></phrase>
+  <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Před jedním dnem]]></phrase>
+  <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Před jedním měsícem]]></phrase>
+  <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1×]]></phrase>
+  <phrase title="1_week_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Před jedním týdnem]]></phrase>
+  <phrase title="1_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 rok]]></phrase>
+  <phrase title="1_year_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Před jedním rokem]]></phrase>
+  <phrase title="2_weeks_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Před dvěma týdny]]></phrase>
+  <phrase title="2_years_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Před dvěma lety]]></phrase>
+  <phrase title="2x_image_replacement_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[URL náhradního obrázku 2×]]></phrase>
+  <phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pokud je zadáno, obrázek ve 2× rozlišení bude automaticky zobrazen místo výše uvedené URL obrázku na zařízeních schopných zobrazit vyšší rozlišení pixelů.<br />
 <br />
-<strong>Note: This option has no effect with sprite mode enabled.</strong>]]></phrase>
-  <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Three months ago]]></phrase>
-  <phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Six months ago]]></phrase>
-  <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nine months ago]]></phrase>
-  <phrase title="a_moment_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[A moment ago]]></phrase>
-  <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[A-Z, 0-9, and _ only]]></phrase>
-  <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[A-Z, a-z, 0-9, and _ only]]></phrase>
-  <phrase title="about" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[About]]></phrase>
-  <phrase title="about_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[About you]]></phrase>
-  <phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent]]></phrase>
-  <phrase title="accept" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accept]]></phrase>
-  <phrase title="accept_all_cookies" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Accept all cookies]]></phrase>
-  <phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Accept future messages]]></phrase>
-  <phrase title="accept_third_party_cookies" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Accept third party cookies]]></phrase>
-  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted privacy policy]]></phrase>
-  <phrase title="accepted_terms_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted terms and rules]]></phrase>
-  <phrase title="account_associated" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Account associated]]></phrase>
-  <phrase title="account_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account details]]></phrase>
-  <phrase title="account_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account upgrade]]></phrase>
-  <phrase title="account_upgrade_payment_change" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[The request to change your payment has been received and will be processed shortly. You will receive an email once complete.]]></phrase>
-  <phrase title="account_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account upgrades]]></phrase>
-  <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Account upgrades cannot be purchased while your account is unconfirmed.]]></phrase>
-  <phrase title="action" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Action]]></phrase>
-  <phrase title="action_available_via_post_only" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This action is available via POST only. Please press the back button and try again.]]></phrase>
-  <phrase title="action_completed_successfully" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Action completed successfully]]></phrase>
-  <phrase title="action_not_completed_because_no_longer_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This action could not be completed because you are no longer logged in. Please reload the page.]]></phrase>
-  <phrase title="action_pending" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Action pending]]></phrase>
-  <phrase title="action_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Action prefix]]></phrase>
-  <phrase title="action_to_take" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Action to take]]></phrase>
-  <phrase title="actions" addon_id="XF" global_cache="1" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Actions]]></phrase>
-  <phrase title="active_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Active providers]]></phrase>
-  <phrase title="active_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Active reports]]></phrase>
-  <phrase title="active_user_changed_reload_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The active user has changed. Reload the page for the latest version.]]></phrase>
-  <phrase title="active_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Active user upgrades]]></phrase>
-  <phrase title="activity_based_trigger" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity based trigger]]></phrase>
-  <phrase title="activity_log_metric.reaction_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Reaction count]]></phrase>
-  <phrase title="activity_log_metric.reaction_score" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Reaction score]]></phrase>
-  <phrase title="activity_log_metric.reply_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Reply count]]></phrase>
-  <phrase title="activity_log_metric.view_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[View count]]></phrase>
-  <phrase title="activity_log_metric.vote_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Vote count]]></phrase>
-  <phrase title="activity_log_metric.vote_score" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Vote score]]></phrase>
-  <phrase title="activity_summary" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary]]></phrase>
-  <phrase title="activity_summary_def.latest_posts" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Latest posts]]></phrase>
-  <phrase title="activity_summary_def.latest_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Latest threads]]></phrase>
-  <phrase title="activity_summary_def_desc.latest_posts" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Renders a section displaying the latest posts in the activity summary email.]]></phrase>
-  <phrase title="activity_summary_def_desc.latest_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Renders a section displaying the latest threads in the activity summary email. Threads can be filtered on various criteria.]]></phrase>
-  <phrase title="activity_summary_definition" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary definition]]></phrase>
-  <phrase title="activity_summary_definitions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary definitions]]></phrase>
-  <phrase title="activity_summary_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary email]]></phrase>
-  <phrase title="activity_summary_email_disabled" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary email disabled]]></phrase>
-  <phrase title="activity_summary_email_enabled" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary email enabled]]></phrase>
-  <phrase title="activity_summary_email_unsubscribe" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[If you no longer wish to receive these emails, you may <a href="{disable_this_link}">disable activity summary emails</a> or <a href="{disable_all_link}">disable all emails</a>.]]></phrase>
+<strong>Poznámka: Tato možnost nemá žádný efekt, pokud je zapnutý režim sprite.</strong>]]></phrase>
+  <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Před třemi měsíci]]></phrase>
+  <phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Před šesti měsíci]]></phrase>
+  <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Před devíti měsíci]]></phrase>
+  <phrase title="a_moment_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Před okamžikem]]></phrase>
+  <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Pouze A-Z, 0-9 a _]]></phrase>
+  <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Pouze A-Z, a-z, 0-9 a _]]></phrase>
+  <phrase title="about" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[O aplikaci]]></phrase>
+  <phrase title="about_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[O vás]]></phrase>
+  <phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zvýraznění]]></phrase>
+  <phrase title="accept" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Přijmout]]></phrase>
+  <phrase title="accept_all_cookies" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Přijmout všechny cookies]]></phrase>
+  <phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Přijímat budoucí zprávy]]></phrase>
+  <phrase title="accept_third_party_cookies" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Přijmout cookies třetích stran]]></phrase>
+  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Zásady ochrany osobních údajů přijaty]]></phrase>
+  <phrase title="accepted_terms_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Podmínky a pravidla přijaty]]></phrase>
+  <phrase title="account_associated" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Účet propojen]]></phrase>
+  <phrase title="account_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Detaily účtu]]></phrase>
+  <phrase title="account_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Povýšení účtu]]></phrase>
+  <phrase title="account_upgrade_payment_change" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Požadavek na změnu platby byl přijat a bude brzy zpracován. Po dokončení obdržíte e-mail.]]></phrase>
+  <phrase title="account_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Povýšení účtu]]></phrase>
+  <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Povýšení účtu nelze zakoupit, dokud není váš účet potvrzen.]]></phrase>
+  <phrase title="action" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Akce]]></phrase>
+  <phrase title="action_available_via_post_only" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Tato akce je dostupná pouze přes POST. Stiskněte tlačítko zpět a zkuste to znovu.]]></phrase>
+  <phrase title="action_completed_successfully" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Akce byla úspěšně dokončena]]></phrase>
+  <phrase title="action_not_completed_because_no_longer_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tuto akci nelze dokončit, protože již nejste přihlášeni. Obnovte stránku.]]></phrase>
+  <phrase title="action_pending" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Akce čeká na vyřízení]]></phrase>
+  <phrase title="action_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Předpona akce]]></phrase>
+  <phrase title="action_to_take" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Akce k provedení]]></phrase>
+  <phrase title="actions" addon_id="XF" global_cache="1" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Akce]]></phrase>
+  <phrase title="active_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktivní poskytovatelé]]></phrase>
+  <phrase title="active_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktivní hlášení]]></phrase>
+  <phrase title="active_user_changed_reload_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktivní uživatel byl změněn. Pro načtení aktuální verze obnovte stránku.]]></phrase>
+  <phrase title="active_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktivní povýšení uživatelů]]></phrase>
+  <phrase title="activity_based_trigger" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Spouštěč založený na aktivitě]]></phrase>
+  <phrase title="activity_log_metric.reaction_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Počet reakcí]]></phrase>
+  <phrase title="activity_log_metric.reaction_score" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Skóre reakcí]]></phrase>
+  <phrase title="activity_log_metric.reply_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Počet odpovědí]]></phrase>
+  <phrase title="activity_log_metric.view_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Počet zobrazení]]></phrase>
+  <phrase title="activity_log_metric.vote_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Počet hlasů]]></phrase>
+  <phrase title="activity_log_metric.vote_score" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Skóre hlasování]]></phrase>
+  <phrase title="activity_summary" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Souhrn aktivity]]></phrase>
+  <phrase title="activity_summary_def.latest_posts" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nejnovější příspěvky]]></phrase>
+  <phrase title="activity_summary_def.latest_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nejnovější vlákna]]></phrase>
+  <phrase title="activity_summary_def_desc.latest_posts" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Vykreslí sekci zobrazující nejnovější příspěvky v e-mailu se souhrnem aktivity.]]></phrase>
+  <phrase title="activity_summary_def_desc.latest_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Vykreslí sekci zobrazující nejnovější vlákna v e-mailu se souhrnem aktivity. Vlákna lze filtrovat podle různých kritérií.]]></phrase>
+  <phrase title="activity_summary_definition" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Definice souhrnu aktivity]]></phrase>
+  <phrase title="activity_summary_definitions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Definice souhrnu aktivity]]></phrase>
+  <phrase title="activity_summary_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[E-mail se souhrnem aktivity]]></phrase>
+  <phrase title="activity_summary_email_disabled" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[E-mail se souhrnem aktivity vypnut]]></phrase>
+  <phrase title="activity_summary_email_enabled" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[E-mail se souhrnem aktivity zapnut]]></phrase>
+  <phrase title="activity_summary_email_unsubscribe" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pokud si již nepřejete dostávat tyto e-maily, můžete <a href="{disable_this_link}">vypnout e-maily se souhrnem aktivity</a> nebo <a href="{disable_all_link}">vypnout všechny e-maily</a>.]]></phrase>
   <phrase title="activity_summary_section.1" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="activity_summary_section.2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="ad_pos.container_breadcrumb_bottom_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container breadcrumb (bottom): Above]]></phrase>
-  <phrase title="ad_pos.container_breadcrumb_bottom_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container breadcrumb (bottom): Below]]></phrase>
-  <phrase title="ad_pos.container_breadcrumb_top_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container breadcrumb (top): Above]]></phrase>
-  <phrase title="ad_pos.container_breadcrumb_top_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container breadcrumb (top): Below]]></phrase>
-  <phrase title="ad_pos.container_content_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container content: Above]]></phrase>
-  <phrase title="ad_pos.container_content_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container content: Below]]></phrase>
-  <phrase title="ad_pos.container_header" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container header]]></phrase>
-  <phrase title="ad_pos.container_sidebar_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sidebar: Above]]></phrase>
-  <phrase title="ad_pos.container_sidebar_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sidebar: Below]]></phrase>
-  <phrase title="ad_pos.container_sidenav_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sidenav: Above]]></phrase>
-  <phrase title="ad_pos.container_sidenav_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Container sidenav: Below]]></phrase>
-  <phrase title="ad_pos.forum_overview_bottom" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum overview: Bottom]]></phrase>
-  <phrase title="ad_pos.forum_overview_top" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum overview: Top]]></phrase>
-  <phrase title="ad_pos.forum_view_above_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum view: Above node list]]></phrase>
-  <phrase title="ad_pos.forum_view_above_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum view: Above thread list]]></phrase>
-  <phrase title="ad_pos.forum_view_below_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum view: Below node list]]></phrase>
-  <phrase title="ad_pos.forum_view_below_stickies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum view: Below stickies]]></phrase>
-  <phrase title="ad_pos.forum_view_below_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum view: Below thread list]]></phrase>
-  <phrase title="ad_pos.member_view_below_tabs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member view: Below tabs]]></phrase>
-  <phrase title="ad_pos.post_above_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post: Above message content]]></phrase>
-  <phrase title="ad_pos.post_below_container" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[Post: Below message container]]></phrase>
-  <phrase title="ad_pos.post_below_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post: Below message content]]></phrase>
-  <phrase title="ad_pos.thread_view_above_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread view: Above message list]]></phrase>
-  <phrase title="ad_pos.thread_view_below_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread view: Below message list]]></phrase>
-  <phrase title="ad_pos_desc.container_breadcrumb_bottom_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inside the page container, directly above the bottom breadcrumb on every page.]]></phrase>
-  <phrase title="ad_pos_desc.container_breadcrumb_bottom_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inside the page container, directly below the bottom breadcrumb on every page.]]></phrase>
-  <phrase title="ad_pos_desc.container_breadcrumb_top_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inside the page container, directly above the top breadcrumb on every page.]]></phrase>
-  <phrase title="ad_pos_desc.container_breadcrumb_top_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inside the page container, directly below the top breadcrumb on every page.]]></phrase>
-  <phrase title="ad_pos_desc.container_content_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Position inside the page container, directly above the content on every page.]]></phrase>
-  <phrase title="ad_pos_desc.container_content_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Position inside the page container, directly below the content on every page.]]></phrase>
-  <phrase title="ad_pos_desc.container_header" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Position in the header, opposite the logo block.]]></phrase>
-  <phrase title="ad_pos_desc.container_sidebar_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Appears above the (right) sidebar on every page, if any content is rendered there.]]></phrase>
-  <phrase title="ad_pos_desc.container_sidebar_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Appears below the (right) sidebar on every page, if any content is rendered there.]]></phrase>
-  <phrase title="ad_pos_desc.container_sidenav_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Appears above the sidenav (left sidebar) on every page, if any content is rendered there. Note that this column may be hidden on small windows.]]></phrase>
-  <phrase title="ad_pos_desc.container_sidenav_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Appears below the sidenav (left sidebar) on every page, if any content is rendered there. Note that this column may be hidden on small windows.]]></phrase>
-  <phrase title="ad_pos_desc.forum_overview_bottom" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[A position that appears at the bottom of the forum overview pages.]]></phrase>
-  <phrase title="ad_pos_desc.forum_overview_top" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[A position that appears at the top of the forum overview pages.]]></phrase>
-  <phrase title="ad_pos_desc.forum_view_above_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[A position that appears just above the node list while viewing a forum. This only appears if there are child nodes to display.]]></phrase>
-  <phrase title="ad_pos_desc.forum_view_above_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Available above the list of threads while viewing a forum.]]></phrase>
-  <phrase title="ad_pos_desc.forum_view_below_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[A position that appears just below the node list while viewing a forum. This only appears if there are child nodes to display.]]></phrase>
-  <phrase title="ad_pos_desc.forum_view_below_stickies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Position visible below the list of sticky threads while viewing a forum. This only appears if there are sticky threads.]]></phrase>
-  <phrase title="ad_pos_desc.forum_view_below_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Available below the list of threads while viewing a forum.]]></phrase>
-  <phrase title="ad_pos_desc.member_view_below_tabs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Directly below the tabs (and above the tab panes) on every member's profile.]]></phrase>
-  <phrase title="ad_pos_desc.post_above_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This position is above the message content in every post.]]></phrase>
-  <phrase title="ad_pos_desc.post_below_container" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[This position is below the message container for every post.]]></phrase>
-  <phrase title="ad_pos_desc.post_below_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This position is below the message content in every post.]]></phrase>
-  <phrase title="ad_pos_desc.thread_view_above_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising position above the list of messages when viewing a thread.]]></phrase>
-  <phrase title="ad_pos_desc.thread_view_below_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising position below the list of messages when viewing a thread.]]></phrase>
-  <phrase title="add" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add]]></phrase>
-  <phrase title="add_activity_summary" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Add activity summary]]></phrase>
-  <phrase title="add_activity_summary_definition" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Add activity summary definition]]></phrase>
-  <phrase title="add_activity_summary_section" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Add activity summary section]]></phrase>
-  <phrase title="add_admin_permission" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add admin permission]]></phrase>
-  <phrase title="add_administrator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add administrator]]></phrase>
-  <phrase title="add_advertisement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add advertisement]]></phrase>
-  <phrase title="add_advertising_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add advertising position]]></phrase>
-  <phrase title="add_api_key" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Add API key]]></phrase>
-  <phrase title="add_api_scope" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Add API scope]]></phrase>
-  <phrase title="add_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add BB code]]></phrase>
-  <phrase title="add_bb_code_media_site" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add BB code media site]]></phrase>
-  <phrase title="add_bookmark" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Add bookmark]]></phrase>
-  <phrase title="add_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add category]]></phrase>
-  <phrase title="add_class_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add class extension]]></phrase>
-  <phrase title="add_code_event" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add code event]]></phrase>
-  <phrase title="add_code_event_listener" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add code event listener]]></phrase>
-  <phrase title="add_content_type_field" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add content type field]]></phrase>
-  <phrase title="add_cron_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add cron entry]]></phrase>
-  <phrase title="add_discouraged_ip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add discouraged IP]]></phrase>
-  <phrase title="add_dropdown" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Add dropdown]]></phrase>
-  <phrase title="add_email_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add email ban]]></phrase>
-  <phrase title="add_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add extension]]></phrase>
-  <phrase title="add_feed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add feed]]></phrase>
-  <phrase title="add_field" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add field]]></phrase>
-  <phrase title="add_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add forum]]></phrase>
-  <phrase title="add_help_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add help page]]></phrase>
-  <phrase title="add_interface_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add interface group]]></phrase>
-  <phrase title="add_ip_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add IP ban]]></phrase>
-  <phrase title="add_language" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add language]]></phrase>
-  <phrase title="add_link_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add link forum]]></phrase>
-  <phrase title="add_member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add member stat]]></phrase>
-  <phrase title="add_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add moderator]]></phrase>
-  <phrase title="add_moderator_to_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add moderator to user groups]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_bottom_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontejner drobečkové navigace (dole): Nad]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_bottom_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontejner drobečkové navigace (dole): Pod]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_top_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontejner drobečkové navigace (nahoře): Nad]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_top_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontejner drobečkové navigace (nahoře): Pod]]></phrase>
+  <phrase title="ad_pos.container_content_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Obsah kontejneru: Nad]]></phrase>
+  <phrase title="ad_pos.container_content_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Obsah kontejneru: Pod]]></phrase>
+  <phrase title="ad_pos.container_header" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hlavička kontejneru]]></phrase>
+  <phrase title="ad_pos.container_sidebar_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Postranní panel kontejneru: Nad]]></phrase>
+  <phrase title="ad_pos.container_sidebar_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Postranní panel kontejneru: Pod]]></phrase>
+  <phrase title="ad_pos.container_sidenav_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Boční navigace kontejneru: Nad]]></phrase>
+  <phrase title="ad_pos.container_sidenav_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Boční navigace kontejneru: Pod]]></phrase>
+  <phrase title="ad_pos.forum_overview_bottom" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přehled fóra: Dole]]></phrase>
+  <phrase title="ad_pos.forum_overview_top" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přehled fóra: Nahoře]]></phrase>
+  <phrase title="ad_pos.forum_view_above_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazení fóra: Nad seznamem uzlů]]></phrase>
+  <phrase title="ad_pos.forum_view_above_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazení fóra: Nad seznamem vláken]]></phrase>
+  <phrase title="ad_pos.forum_view_below_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazení fóra: Pod seznamem uzlů]]></phrase>
+  <phrase title="ad_pos.forum_view_below_stickies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazení fóra: Pod připnutými vlákny]]></phrase>
+  <phrase title="ad_pos.forum_view_below_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazení fóra: Pod seznamem vláken]]></phrase>
+  <phrase title="ad_pos.member_view_below_tabs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazení profilu: Pod záložkami]]></phrase>
+  <phrase title="ad_pos.post_above_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Příspěvek: Nad obsahem zprávy]]></phrase>
+  <phrase title="ad_pos.post_below_container" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[Příspěvek: Pod kontejnerem zprávy]]></phrase>
+  <phrase title="ad_pos.post_below_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Příspěvek: Pod obsahem zprávy]]></phrase>
+  <phrase title="ad_pos.thread_view_above_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazení vlákna: Nad seznamem zpráv]]></phrase>
+  <phrase title="ad_pos.thread_view_below_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazení vlákna: Pod seznamem zpráv]]></phrase>
+  <phrase title="ad_pos_desc.container_breadcrumb_bottom_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uvnitř kontejneru stránky, přímo nad spodní drobečkovou navigací na každé stránce.]]></phrase>
+  <phrase title="ad_pos_desc.container_breadcrumb_bottom_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uvnitř kontejneru stránky, přímo pod spodní drobečkovou navigací na každé stránce.]]></phrase>
+  <phrase title="ad_pos_desc.container_breadcrumb_top_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uvnitř kontejneru stránky, přímo nad horní drobečkovou navigací na každé stránce.]]></phrase>
+  <phrase title="ad_pos_desc.container_breadcrumb_top_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uvnitř kontejneru stránky, přímo pod horní drobečkovou navigací na každé stránce.]]></phrase>
+  <phrase title="ad_pos_desc.container_content_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pozice uvnitř kontejneru stránky, přímo nad obsahem na každé stránce.]]></phrase>
+  <phrase title="ad_pos_desc.container_content_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pozice uvnitř kontejneru stránky, přímo pod obsahem na každé stránce.]]></phrase>
+  <phrase title="ad_pos_desc.container_header" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Pozice v hlavičce, naproti bloku s logem.]]></phrase>
+  <phrase title="ad_pos_desc.container_sidebar_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazuje se nad (pravým) postranním panelem na každé stránce, pokud je zde nějaký obsah.]]></phrase>
+  <phrase title="ad_pos_desc.container_sidebar_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazuje se pod (pravým) postranním panelem na každé stránce, pokud je zde nějaký obsah.]]></phrase>
+  <phrase title="ad_pos_desc.container_sidenav_above" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazuje se nad boční navigací (levý panel) na každé stránce, pokud je zde nějaký obsah. Upozorňujeme, že tento sloupec může být na malých obrazovkách skrytý.]]></phrase>
+  <phrase title="ad_pos_desc.container_sidenav_below" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zobrazuje se pod boční navigací (levý panel) na každé stránce, pokud je zde nějaký obsah. Upozorňujeme, že tento sloupec může být na malých obrazovkách skrytý.]]></phrase>
+  <phrase title="ad_pos_desc.forum_overview_bottom" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pozice, která se zobrazuje dole na stránkách přehledu fóra.]]></phrase>
+  <phrase title="ad_pos_desc.forum_overview_top" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pozice, která se zobrazuje nahoře na stránkách přehledu fóra.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_above_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pozice, která se zobrazuje těsně nad seznamem uzlů při zobrazení fóra. Zobrazí se pouze, pokud existují podřazené uzly.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_above_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dostupné nad seznamem vláken při zobrazení fóra.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_below_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pozice, která se zobrazuje těsně pod seznamem uzlů při zobrazení fóra. Zobrazí se pouze, pokud existují podřazené uzly.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_below_stickies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pozice viditelná pod seznamem připnutých vláken při zobrazení fóra. Zobrazí se pouze, pokud existují připnutá vlákna.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_below_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dostupné pod seznamem vláken při zobrazení fóra.]]></phrase>
+  <phrase title="ad_pos_desc.member_view_below_tabs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přímo pod záložkami (a nad jejich obsahem) na profilu každého člena.]]></phrase>
+  <phrase title="ad_pos_desc.post_above_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tato pozice je nad obsahem zprávy v každém příspěvku.]]></phrase>
+  <phrase title="ad_pos_desc.post_below_container" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[Tato pozice je pod kontejnerem zprávy v každém příspěvku.]]></phrase>
+  <phrase title="ad_pos_desc.post_below_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tato pozice je pod obsahem zprávy v každém příspěvku.]]></phrase>
+  <phrase title="ad_pos_desc.thread_view_above_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklamní pozice nad seznamem zpráv při zobrazení vlákna.]]></phrase>
+  <phrase title="ad_pos_desc.thread_view_below_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklamní pozice pod seznamem zpráv při zobrazení vlákna.]]></phrase>
+  <phrase title="add" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat]]></phrase>
+  <phrase title="add_activity_summary" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Přidat souhrn aktivity]]></phrase>
+  <phrase title="add_activity_summary_definition" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Přidat definici souhrnu aktivity]]></phrase>
+  <phrase title="add_activity_summary_section" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Přidat sekci souhrnu aktivity]]></phrase>
+  <phrase title="add_admin_permission" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat oprávnění administrátora]]></phrase>
+  <phrase title="add_administrator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat administrátora]]></phrase>
+  <phrase title="add_advertisement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat reklamu]]></phrase>
+  <phrase title="add_advertising_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat reklamní pozici]]></phrase>
+  <phrase title="add_api_key" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Přidat API klíč]]></phrase>
+  <phrase title="add_api_scope" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Přidat rozsah API]]></phrase>
+  <phrase title="add_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat BB kód]]></phrase>
+  <phrase title="add_bb_code_media_site" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat mediální web BB kódu]]></phrase>
+  <phrase title="add_bookmark" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Přidat záložku]]></phrase>
+  <phrase title="add_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat kategorii]]></phrase>
+  <phrase title="add_class_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat rozšíření třídy]]></phrase>
+  <phrase title="add_code_event" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat událost kódu]]></phrase>
+  <phrase title="add_code_event_listener" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat posluchače události kódu]]></phrase>
+  <phrase title="add_content_type_field" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat pole typu obsahu]]></phrase>
+  <phrase title="add_cron_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat cron úlohu]]></phrase>
+  <phrase title="add_discouraged_ip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat nedoporučenou IP]]></phrase>
+  <phrase title="add_dropdown" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Přidat rozbalovací nabídku]]></phrase>
+  <phrase title="add_email_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat zákaz e-mailu]]></phrase>
+  <phrase title="add_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat rozšíření]]></phrase>
+  <phrase title="add_feed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat feed]]></phrase>
+  <phrase title="add_field" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat pole]]></phrase>
+  <phrase title="add_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat fórum]]></phrase>
+  <phrase title="add_help_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat stránku nápovědy]]></phrase>
+  <phrase title="add_interface_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat skupinu rozhraní]]></phrase>
+  <phrase title="add_ip_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat blokaci IP]]></phrase>
+  <phrase title="add_language" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat jazyk]]></phrase>
+  <phrase title="add_link_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat odkazové fórum]]></phrase>
+  <phrase title="add_member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat statistiku člena]]></phrase>
+  <phrase title="add_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat moderátora]]></phrase>
+  <phrase title="add_moderator_to_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Přidat moderátora do uživatelských skupin]]></phrase>
   <phrase title="add_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add navigation]]></phrase>
   <phrase title="add_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add node]]></phrase>
   <phrase title="add_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add notice]]></phrase>
